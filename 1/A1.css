@@ -1,0 +1,36 @@
+h1{
+    color:red;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    color:green;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+span{
+    background-color: yellow;
+}
+ul{
+    font-family:Arial, Helvetica, sans-serif;
+    color: brown;
+    letter-spacing: 5px;
+}
+ul .a{
+    background-color: yellow;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:brown;
+}
+.main{
+    font-size: x-small;
+    color: brown;
+}
+.name{
+    font-style: italic;
+    color: brown;
+}
+a{
+    background-color: yellow;
+    color: brown;
+}
